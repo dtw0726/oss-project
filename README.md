@@ -1,2 +1,1 @@
-Author's email: Alice@hansung.ac.kr
-
+ddAuthor's email: Alice@hansung.ac.kr
